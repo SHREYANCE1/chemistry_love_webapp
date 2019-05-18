@@ -1,0 +1,17 @@
+{
+    "addons": [
+  
+    ],
+    "buildpacks": [
+  
+    ],
+    "env": {
+    },
+    "formation": {
+    },
+    "name": "chemistry_love_webapp",
+    "scripts": {
+    },
+    "stack": "heroku-18"
+  }
+  
